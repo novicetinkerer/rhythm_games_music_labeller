@@ -1,0 +1,15 @@
+# Ignore audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.m4a
+*.wma
+*.aiff
+*.alac
+*.opus
+*.mid
+*.midi
+*.mka
+*.webm
